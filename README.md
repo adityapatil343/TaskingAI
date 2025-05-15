@@ -2,6 +2,7 @@
 <a href="https://www.tasking.ai"><img src="static/img/logo.png" alt="https://www.tasking.ai"></a>
 </p>
 
+
 # TaskingAI
 
 <p align="center">
