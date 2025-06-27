@@ -3,7 +3,7 @@
 </p>
 
 
-# TaskingAI
+# TaskingAI...
 
 <p align="center">
   <a href="https://hub.docker.com/u/taskingai"><img alt="Docker Image Version (latest semver)" src="https://img.shields.io/docker/v/taskingai/taskingai-server?label=docker"></a>
